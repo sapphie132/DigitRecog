@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sapphie/CLionProjects/DigitRecogniser/main.cpp
+iostream
+-
+caffe/net.hpp
+-
+caffe/layers/memory_data_layer.hpp
+-
+iomanip
+-
+

@@ -1,0 +1,4 @@
+/home/sapphie/.clion/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/sapphie/CLionProjects/DigitRecogniser
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/sapphie/CLionProjects/DigitRecogniser/cmake-build-debug

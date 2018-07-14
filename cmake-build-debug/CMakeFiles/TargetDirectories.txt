@@ -1,0 +1,3 @@
+/home/sapphie/CLionProjects/DigitRecogniser/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sapphie/CLionProjects/DigitRecogniser/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sapphie/CLionProjects/DigitRecogniser/cmake-build-debug/CMakeFiles/DigitRecogniser.dir
